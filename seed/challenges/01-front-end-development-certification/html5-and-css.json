@@ -27,7 +27,6 @@
         "assert.isTrue((/hello(\\s)+world/gi).test($('h1').text()), 'message: Element <code>h1</code>harus berisi teks \"Hello World\".');"
       ],
       "type": "waypoint",
-      "challengeType": 0
     },
     {
       "id": "bad87fee1348bd9aedf0887a",
